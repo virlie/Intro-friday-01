@@ -5,3 +5,10 @@
 h2 {
   margin-top: 20px;
 }
+body{
+  background-image: url("cherry.jpg");
+  background-size: cover;
+}
+p span {
+  font-style: italic;
+}
