@@ -7,7 +7,7 @@
 
 ## Description
 This is a Portfolio Project Week 1 at Epicodus.
-
+Visit this page at https://virlie.github.io/Intro-friday-01/
 
 
 ## Setup/Installation Requirements
